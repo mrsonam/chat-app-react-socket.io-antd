@@ -2,6 +2,30 @@
   text-align: center;
 }
 
+.container{
+  padding: 0 5rem;
+}
+
+.chatArea{
+  /* border: 0.5px solid grey ; */
+  padding: 2rem 4rem 0;
+  text-align: start;
+}
+
+.self{
+  text-align: end;
+}
+
+.message-form{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.message-input{
+  width: 100%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
